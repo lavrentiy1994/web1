@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="en"
 <!doctype html>
 <?php
 include (Core\ConfigApp::$tplDir . '/layout/head.tpl.php');
